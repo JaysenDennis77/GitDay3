@@ -1,0 +1,9 @@
+package Core;
+
+public class Deposit{
+  // for depositing
+  
+  // created on git hub
+  
+  
+}
